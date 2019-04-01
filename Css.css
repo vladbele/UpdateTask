@@ -1,0 +1,50 @@
+body{background: #ffffff url(https://www.gmod-fan.ru/forum/uploads/attachment/2018-04/1522712290_13_1_5_d-1080x1080.jpg);  margin: 0; padding: 0; font: 16px/24px Arial}
+/*структура*/
+
+/* настройка шапки*/
+div.logo{height: 100px; background: #101417}
+
+h1{color: beige; width: 40%; margin: 0 auto; font-family: cursive}
+
+/*настройка таблицы*/
+div.table{
+	height: 45%;
+	width: 80%; 
+	margin: 0 auto; 
+	background: #faf2ee;
+}
+
+table{ margin: 0 auto;}
+
+td{ border: 1px solid grey;
+	padding: 19px}
+
+tr{ padding: 19px; }
+
+td:hover{
+	border: 2px solid black;
+	color: aqua;
+	border: 1px;
+}
+
+/*настройка кнопок*/
+div.button{height: 100px ;width: 80%; margin: 3% auto 0; background: #101417}
+
+form{margin: 2% 35% 20px; width: 25%; height: 5% }
+
+input{margin: 25px;
+	width: 100%;
+	border-radius: 10px;
+	background-color: #ffffff;
+}
+
+input:hover{
+	width: ;
+	background-color: #ffffff;
+	color: #ffffff;
+}
+
+input:active{
+	background-color:black;
+	color: white
+}
